@@ -1,0 +1,8 @@
+.entry {
+  display: block;
+  margin: 0;
+  padding: 1%;
+  text-align: center;
+  min-height: 30px;
+  color: lightgray;
+}

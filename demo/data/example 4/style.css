@@ -1,0 +1,88 @@
+h1 {
+	color: #FFFFFFB1;
+}
+
+h2 {
+	color: #FFFFFFB1;
+}
+
+h3 {
+	color: #FFFFFFB1;
+}
+
+p {
+	color: #FFFFFFB1;
+}
+
+li {
+	color: #FFFFFFB1;
+}
+
+a {
+	color: #BDD8E6AA;
+}
+
+th, td {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+td:hover {
+	background: #99999945;
+	border: 2px solid #00000000;
+	padding: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+table {
+	color: #FFFFFFB1;
+	padding: 1px;
+	font-family: "Verdana", Sans-serif;
+	font-size: 23px;
+	
+	--background: #99999945;
+	--border: 2px solid #00000000;
+	--padding: 0px 15px;
+	---moz-border-radius: 5px;
+	---webkit-border-radius: 5px;
+}
+
+code {
+	color: #FFFFFFB1;
+}
+
+body {
+	background: #201F1F;
+	font-family: "Verdana", Sans-serif;
+	font-size: 23px;
+	
+	padding-top: 10px;
+        padding-right: 30px;
+        padding-bottom: 40px;
+        padding-left: 100px;
+        vertical-align: middle
+}
+
+blockquote {
+	background: #99999945;
+	border: 2px solid #00000000;
+	padding: 0px 15px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+pre {
+	background: #99999945;
+	border: 2px solid #00000000;
+	padding: 10px 15px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+hr {
+	 border: 2px solid #99999945;
+  	 border-radius: 5px;
+}
